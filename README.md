@@ -1,5 +1,5 @@
 https://colab.research.google.com/drive/1p6X25HmRYZGwetX-R97a7n5XvcMYMFvT
-
+Model training is completed and working on frontend 
 This Google Colab notebook contains the complete implementation of a Brain Tumor Detection System using machine learning techniques on MRI scan images.
 
 The notebook includes:
